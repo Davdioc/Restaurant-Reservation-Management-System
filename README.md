@@ -4,7 +4,7 @@ A simple console-based Restaurant Reservation Management System implemented in C
 
 ---
 
-## ✨ Features
+## Features
 
 - Add and manage restaurant tables
 - Make reservations based on date, time, and capacity
@@ -14,7 +14,7 @@ A simple console-based Restaurant Reservation Management System implemented in C
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 | File               | Description |
 |--------------------|-------------|
@@ -33,7 +33,7 @@ A simple console-based Restaurant Reservation Management System implemented in C
 
 ---
 
-## 🛠️ How to Compile
+## How to Compile
 
 Run the following command in your terminal:
 
