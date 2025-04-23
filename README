@@ -1,0 +1,5 @@
+Author: David Oche (101247671)
+Purpose: The program manages the table and reservation data for a restaurant. The end user will be able to print the current reservation schedule, or reserve an existing table with a specific capacity. The program will only allow new reservations to be made if a table of the corresponding capacity is available for the requested date and time.
+File list: main.cc main.h Control.cc Control.h Restaurant.cc Restaurant.h RsvList.cc RsvList.h Reservation.cc Reservation.h Date.cc Date.h Time.cc Time.h Table.cc Table.h
+
+Compilation and Launch Instructions: Type in "make" and hit enter once you are in the right directory
